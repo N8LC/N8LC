@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N8thegr8erthu
-- 👀 I’m interested in Cybersecurity. Programming, and game devolpment.
+- 👀 I’m interested in Cybersecurity, Programming, and game devolpment.
 - 🌱 I’m currently learning Networking and Pentesting.
 - 💞️ I’m looking to collaborate on game devolpment and programming projects.
 - 📫 How to reach me - 
