@@ -8,8 +8,5 @@
 
 <!-- Laungages I know -->
 ## Interests
-Python,
-Javascript,
-Java,
-C#,
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n8lc&layout=compact)](https://github.com/n8lc/github-readme-stats)
 
