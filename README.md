@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h1 align="center">N8thegr8erthnu</h1>
+<h1 align="center">N8LC</h1>
   <p align="center">
     Who am i?
   </p>
