@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @N8thegr8erthu
-- 👀 I’m interested in Cybersecurity, Programming, and game devolpment.
-- 🌱 I’m currently learning Networking and Pentesting.
-- 💞️ I’m looking to collaborate on game devolpment and programming projects.
-- 📫 How to reach me - 
-Email - Nathanlawcarter@gmail.com
+<a name="readme-top"></a>
 
-<!---
-N8thegr8erthu/N8thegr8erthu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">N8thegr8erthnu</h1>
+  <p align="center">
+    Who am i?
+  </p>
+</div>
+
+<!-- Laungages I know -->
+## Interests
+Python,
+Javascript,
+Java,
+C#,
+
